@@ -1,16 +1,16 @@
 # Medio Ambiente
 
 El medio ambiente es un tema que está en boca de todos actualmente debido a los movimientos que tratan de protegerlo, pero ¿Qué significa proteger el medio ambiente?
-[¿Qué es la protección del medio ambiente?]
+[¿Qué es la protección del medio ambiente?](/medioAmbiente/proteccion.md)
 
 Debido a la degradación en los medios naturales y el impacto de las grandes empresas, existen unos riesgos para la sociedad.
-[Riesgos]
+[Riesgos](/medioAmbiente/riesgos.md)
 
 La protección del medio ambiente tiene unos objetivos.
-[Objetivos]
+[Objetivos](/medioAmbiente/objetivos.md)
 
 Para apoyar con la protección del medio ambiente, nosotros mismos podemos adoptar unas medidas fáciles de realizar.
-[Medidas]
+[Medidas](/medioAmbiente/acciones.md)
 
 ## Referencias
 [Protección del medio ambiente](https://es.wikipedia.org/wiki/Protección_del_medio_ambiente)
